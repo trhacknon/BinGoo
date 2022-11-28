@@ -13,7 +13,7 @@
                                 ) | |_) | | | | | |_| | (_) | (_) |_| (
                                (  |____/|_|_| |_|\____|\___/ \___/(_)  )
                                 )                                     (
-                               '-----v1--------------By-Hood3dRob1n----'
+                               '-----v1--------------By--Trhacknon----'
 
                                   Welcome to the BinGoo README file!    
 
@@ -128,6 +128,6 @@ You can press CTRL+C at anypoint to abort an active session and most active proc
 Let it also be known that I in no way take any responsibility for anything you do with this tool. Use at your own risk. Be safe and until next time, enjoy!
 
 Greetz,
-H.R.
+Trhacknon.
 
 #EOF
