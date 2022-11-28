@@ -1,6 +1,6 @@
 #!/bin/bash
 #DIGGER TOOL
-#by Hood3dRob1n
+#by trhacknon
 #General Enumeration Tool for recon
 
 #Bundled version so works with BinGoo dorker tool
@@ -29,7 +29,7 @@ cat <<"EOT"
    ` FJN,_`L?TWMMMMNMMMMMMMMMNNdMH&^^^^^dMNgMNMtMMMMMMMMNJL`-. `
     .U<3+INTRA+FTW````````````````````````````````````````.TMm.
    .KJHY!``````````````Digger Recon Tool v1``````````````` +`NJMx`
-     ?zJ!````````````````````````````By:Hood3dRob1n````` .G.MMuM#:
+     ?zJ!`````````````````````````````By:trhacknon`````` .G.MMuM#:
         ?Tu..````````````````````````````````````````````..?Nd#dY
           ` ?TYSaJ..................JJgqNNMMMMMMMMMMMMMNaJ.?WEd'
           .MMMN, ` .MMMMM9"""""7?!` .+MMMNKMMMMMMMMMMMMMMMMN,d'
