@@ -541,7 +541,7 @@ injector_tester_core(){
 		rm -rf lnkfile-tmp_* 2> /dev/null
 		rm -f results/bingoo_tmp.results 2> /dev/null
 		if [ "$SHARE" != 1 ]; then
-			banner | grep --color -E 'By||Hood3dRob1n'
+			banner | grep --color -E 'By||Trhacknon'
 			analyze_type
 		fi
 	fi
@@ -577,7 +577,7 @@ injector_tester_core(){
 		rm -rf lnkfile-tmp_* 2> /dev/null
 		rm -f results/bingoo_tmp.results 2> /dev/null
 		if [ "$SHARE" != 1 ]; then
-			banner | grep --color -E 'By||Hood3dRob1n'
+			banner | grep --color -E 'By||Trhacknon'
 			analyze_type
 		fi
 	fi
@@ -727,7 +727,7 @@ bing_shared_hosting_check(){
 	echo "Found $sharedcnt possibles, please check results/shared-hosting.results file for full details if you missed in terminal..." | grep --color -E 'Found||possibles||please check results||shared||hosting||results file for full details if you missed in terminal'
 	echo
 	rm -f shared.txt
-	banner | grep --color -E 'By||Hood3dRob1n'
+	banner | grep --color -E 'By||Trhacknon'
 	start_engine
 }
 
@@ -783,7 +783,7 @@ BIZ COM INFO NET ORG AERO ASIA CAT COOP EDU GOV INT JOBS MIL MOBI MUSEUM TEL TRA
 	echo "Found $sharedcnt possibles, please check results/$BINGGEOCODE.results file for full details if you missed in terminal..." | grep --color -E 'Found||possibles||please check results||$BINGGEOCODE||results file for full details if you missed in terminal'
 	echo
 	rm -f GEO.txt
-	banner | grep --color -E 'By||Hood3dRob1n'
+	banner | grep --color -E 'By||Trhacknon'
 	start_engine
 }
 
@@ -793,27 +793,27 @@ digger_recon(){
 	#IF it fails consider using EXPORT for exporting values from resolver....
 	source plugins/digger
 	wait
-	banner | grep --color -E 'By||Hood3dRob1n'
+	banner | grep --color -E 'By||Trhacknon'
 	start_engine
 }
 
 bingoo_sqli_tools(){
 	source plugins/SQLi
 	wait
-	banner | grep --color -E 'By||Hood3dRob1n'
+	banner | grep --color -E 'By||Trhacknon'
 	start_engine
 }
 
 bingoo_lfi_tools(){
 	source plugins/LFI
 	wait
-	banner | grep --color -E 'By||Hood3dRob1n'
+	banner | grep --color -E 'By||Trhacknon'
 	start_engine
 }
 
 # MAIN FUNCTION CALLS
 clear
-banner | grep --color -E 'By||Hood3dRob1n'
+banner | grep --color -E 'By||Trhacknon'
 
 # Check that user has LYNX installed already as its core of script
 command -v lynx >/dev/null 2>&1 || { echo >&2 "LYNX isn't installed!  Can't use this tool without it..." | grep --color -E 'LYNX isn||t installed||Can||t use this tool without it'; exit 0; }
